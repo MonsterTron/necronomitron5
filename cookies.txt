@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.tronaitrade.com	TRUE	/	FALSE	1999999999	__cfduid	d762fb44e7f279c2356205322a16774131608149322
+tronaitrade.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
